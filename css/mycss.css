@@ -19,12 +19,12 @@ h2{
   text-align:center;
   padding: center;
   }
-h1 {
+.ourMenu {
   text-align: center;
   margin-top: 5%;
   margin-bottom: 5%; 
 }
-.section {  
+.ourSection {  
   clear: margin;
   position: relative;
   color: black;
@@ -37,15 +37,18 @@ h1 {
   margin-bottom: 15px;
   margin-right: 15px;
   }  
-  .chicken{
+p {
+  text-align:justify;
+}
+.ourChicken{
     background-color:#009A33;         
     color: white;
     }
-   .beef{
+.ourBeef{
     background-color:#93334B;
     color: white;  
    }
-   .sushi{
+.ourSushi{
     background-color:#93634B;
     color: white;   
    }
